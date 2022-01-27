@@ -4,8 +4,6 @@
 
 ---
 
-<br>
-
 # Setup
 
 ### Add a default.json file in config folder with the following
