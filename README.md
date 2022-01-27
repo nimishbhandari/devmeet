@@ -11,8 +11,7 @@
 ```json
 {
   "mongoURI": "<your_mongoDB_Atlas_uri_with_credentials>",
-  "jwtSecret": "secret",
-  "githubToken": "<yoursecrectaccesstoken>"
+  "jwtSecret": "secret"
 }
 ```
 
