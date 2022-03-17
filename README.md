@@ -2,7 +2,7 @@
 
 https://devmeet-n.herokuapp.com/
 
-> This is a social media platform where developers can connect and share their thoughts. This is a MERN stack application that includes authentication, profiles and forum posts.
+> This is a social media platform where developers can connect and share their thoughts, a MERN stack application that includes authentication, profiles and forum posts.
 
 ---
 
