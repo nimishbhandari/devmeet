@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://nimish:nimish@general.hpxmq.mongodb.net/devmeet?retryWrites=true&w=majority",
-  "jwtSecret": "secretdevmeet",
-  "githubToken": "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"
+  "mongoURI": "",
+  "jwtSecret": "",
+  "githubToken": ""
 }
